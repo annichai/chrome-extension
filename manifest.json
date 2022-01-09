@@ -1,9 +1,9 @@
 {
-    "name": "Page Redder",
+    "name": "Link Liner",
     "action": {},
     "manifest_version": 3,
     "version": "0.1",
-    "description": "Turns the page red when you click the icon",
+    "description": "Underlines clickable links when you click the icon",
     "permissions": [
       "activeTab",
       "scripting"
